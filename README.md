@@ -39,3 +39,9 @@ This project is a pixel-accurate implementation of a Wallet landing page based o
 ## Tech Stack
 - HTML5  
 - CSS3 (Flexbox, Gradients)
+
+---
+
+## Vercel Link
+
+https://saas-landing-page-mu-khaki.vercel.app/
