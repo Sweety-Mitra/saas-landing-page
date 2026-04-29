@@ -215,3 +215,44 @@ body {
   width: 1100px;               
   border-radius: 16px;
 }
+
+/* features section */
+.features {
+  padding: 160px 40px 0;
+  background: #2B2B2B;
+}
+
+/* layout */
+.features-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1033px; /* from figma */
+  margin: 0 auto;
+}
+
+/* each feature */
+.feature {
+  width: 311px;
+  text-align: center;
+}
+
+/* icon */
+.feature img {
+  width: 70px;
+  margin-bottom: 20px;
+}
+
+/* title */
+.feature h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+/* text */
+.feature p {
+  font-size: 18px;
+  color: #9CA3AF;
+  line-height: 1.6;
+}
